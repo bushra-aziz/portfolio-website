@@ -27,4 +27,8 @@ It can be used to showcase your skills, projects, and contact details in a profe
 ---
 
 ## 📂 Project Structure
-
+portfolio/
+│── index.html # Main HTML file (structure of the website)
+│── style.css # CSS file (styling and responsiveness)
+│── script.js # JavaScript file (interactivity and animations)
+└── README.md # Documentation
